@@ -7,13 +7,13 @@ A bitpac is a cooperative whose members control some money and vote on how to sp
 
 # How can I try it?
 
-**Mainnet:** https://supertestnet.github.io/bitpac/
+**Mainnet:** https://4G0R4.github.io/bitpac/
 
-**Testnet:** https://supertestnet.github.io/bitpac/?network=testnet
+**Testnet:** https://4G0R4.github.io/bitpac/?network=testnet
 
 # Video
 
-[![](https://supertestnet.github.io/bitpac/bitpac-thumbnail-with-youtube-logo.jpg)](https://www.youtube.com/watch?v=RLh4CF7Sd_w)
+[![](https://4G0R4.github.io/bitpac/bitpac-thumbnail-with-youtube-logo.jpg)](https://www.youtube.com/watch?v=RLh4CF7Sd_w)
 
 # So is this basically a DAO?
 
@@ -58,4 +58,4 @@ A bitpac is a multisig with *public auditability.* Multisigs are usually private
 - [ ] Add support for holding ecash in the treasury
 - [ ] Let keyholders transfer or sell their voting rights
 
-![](https://supertestnet.github.io/bitpac/bitpac.png)
+![](https://4G0R4.github.io/bitpac/bitpac.png)
