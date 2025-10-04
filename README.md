@@ -21,15 +21,15 @@ The short answer is yes. The long answer is no. Daos are supposed to be autonomo
 
 # Why did you make this?
 
-One day I was looking up reasons why altcoins are stupid and I came across this gem: https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813
+One day @supertestnet was looking up reasons why altcoins are stupid and @supertestnet came across this gem: [https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813](http://web.archive.org/web/20230321190930/https://forum.sushi.com/t/establish-sushi-legal-defense-fund/11813)
 
 Basically there's an ethereum "dao" called sushiswap. They got sued by the SEC. In response they created a proposal to use the funds held by the voters in their "dao" to hire lawyers to defend themselves. The vote passed and the money went to a bunch of lawyers.
 
-I thought that was pretty stupid, but I liked the voting part. Voting on expenditures doesn't make you a dao (in my opinion), but it's still pretty neat. So I made this tool so that bitcoiners can do something similar. Create a multisig by selecting people's profiles from nostr, pick a threshold of how many votes are needed to move the money, and the result you get is a public page where any keyholder can propose how they'd like to spend the money. Every voter gets to accept or reject that proposal, and voila! It's like what sushiswap did except on bitcoin.
+I thought that was pretty stupid, but @supertestnet liked the voting part. Voting on expenditures doesn't make you a dao (in my opinion), but it's still pretty neat. So I made this tool so that bitcoiners can do something similar. Create a multisig by selecting people's profiles from nostr, pick a threshold of how many votes are needed to move the money, and the result you get is a public page where any keyholder can propose how they'd like to spend the money. Every voter gets to accept or reject that proposal, and voila! It's like what sushiswap did except on bitcoin.
 
 # So this is nothing more and nothing less than a multisig. Why didn't you just call it a multisig? Why make a new name when "multisig" is fine?
 
-A bitpac is a multisig with *public auditability.* Multisigs are usually private -- you normally don't disclose who's in them. With bitpac, you do. But if you just want to just call it a multisig that's fine with me. I still had fun making an interface for creating and managing multisigs, and I for one think this tool is unique enough that it merits a special name.
+A bitpac is a multisig with *public auditability.* Multisigs are usually private -- you normally don't disclose who's in them. With bitpac, you do. But if you just want to just call it a multisig that's fine with me. @supertestnet still had fun making an interface for creating and managing multisigs, and @supertestnet for one think this tool is unique enough that it merits a special name.
 
 # Todo list
 
@@ -49,7 +49,7 @@ A bitpac is a multisig with *public auditability.* Multisigs are usually private
 - [x] On the members page show the name, the members, and the policy
 - [x] On the balance page show the balance, the address, and a qr code
 - [x] Make a splash page
-- [x] Learn why I sometimes need to reload the page and fix it so I don't
+- [x] Learn why sometimes need to reload the page and fix it
 - [x] Fix the issue where a voter can make proposals vanish by denying them many times
 - [x] Display a countdown on each proposal for when it disappears
 - [x] Ensure that *approved* and *rejected* proposals don’t disappear after the expiry
